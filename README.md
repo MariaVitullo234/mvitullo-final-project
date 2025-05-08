@@ -6,7 +6,7 @@ Welcome to the README for my **personal website project**. This README.md focuse
 
 ## Preview
 
-![Website Preview](assets/website-preview.png)
+![Website Preview](dist/assets/website-preview.png)
 
 ---
 
