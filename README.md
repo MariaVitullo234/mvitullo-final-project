@@ -8,43 +8,73 @@ Welcome to the README for my **personal website project**. This README.md focuse
 
 ![Website Preview](dist/assets/website-preview.png)
 
----
-
-##  Project Plan & Decisions
-
-### [PBI] Decide the Site Type and Infrastructure
-
-- 🔹 **Type**: I chose to build a **static website** using **HTML, CSS, and Bootstrap**.
-- 🔹 **Framework**: I’m using **Bootstrap 5** for styling and layout consistency.
-- 🔹 **Approach**: I started with a Bootstrap template and customized it for my content and branding.
 
 ---
 
-##  Template Setup
+##  Project Overview
 
-### [PBI] Choose or Build a Template
-
-- ✅ Selected https://startbootstrap.github.io/startbootstrap-personal/index.html for my template
-- ✅ Downloaded and extracted the files to my project folder.
-- ✅ Removed any unused sections (e.g., placeholder text, unused JS libraries).
-- ✅ Modified layout structure to include sections like "About Me", "Projects", and "Contact", and "Resume" pages 
+This project was designed as a **static website** that reflects both technical ability and personal branding. It was developed with a strong focus on accessibility, responsiveness, and professional polish. Below is a breakdown of the key features and implementation steps.
 
 ---
 
-##  GitHub Repository Setup
+##  Key Accomplishments
 
-### [PBI] Repository & Initial Commit
+### 🔹 Template Customization
+- Selected a free **Bootstrap 5** template from Start Bootstrap ([link](https://startbootstrap.github.io/startbootstrap-personal/index.html)) as a foundation.
+- Modified HTML structure and content to reflect my own:
+  - Added **About Me**, **Resume**, **Projects**, and **Contact** sections.
+  - Removed irrelevant scripts and unused content for cleaner performance.
+  - Customized styling and layout to match my aesthetic and branding needs.
 
-- ✅ Created a new GitHub repository: `mvitullo-final-project`
-- ✅ Cloned the repository to my local development environment.
-- ✅ Added a `.gitignore` file to exclude:
-  - IDE files (e.g., `.vscode/`)
-  - OS files
+### 🔹 Functional Enhancements
+- Embedded **LinkedIn** and **GitHub** profile buttons for networking and visibility.
+- Linked a **PDF version of my resume** for easy download by recruiters and visitors.
+- Added **favicon icons** for a polished browser experience.
 
-## ✅ Validation & Accessibility
+### 🔹 Deployment & Domain Setup
+- Hosted the site on **Azure Static Web Apps**.
+- Successfully connected the site to my **custom domain** purchased via Namecheap.
+- Verified DNS records and SSL configuration to ensure secure, live access.
 
-- ✅ Validated HTML5 and CSS3 using [W3C Validators](https://validator.w3.org/)
-- ✅ Checked WCAG 2.1 Level AA accessibility using tools like Lighthouse and WAVE.
-- ✅ Made edits for better color contrast, heading structure, and ARIA labels where needed.
+### 🔹 Analytics & Policies
+- Integrated **Google Analytics** to track visitor traffic and engagement behavior.
+- Created and linked:
+  - **Privacy Policy**
+  - **Cookie Policy**
+  - **Terms and Conditions**  
+  These were written and implemented to ensure transparency and compliance.
 
 ---
+
+## ✅ Accessibility & Testing
+
+- Performed color contrast adjustments to meet **WCAG 2.1 AA** standards.
+- Used **WAVE** and **Lighthouse** to identify and resolve accessibility errors.
+- Validated HTML and CSS with [W3C](https://validator.w3.org/) to ensure semantic structure and code quality.
+- Ensured keyboard navigation and screen reader compatibility with proper ARIA labels.
+
+---
+
+## 🗂 Repository Setup
+
+- Created GitHub repo: `mvitullo-final-project`
+- Added `.gitignore` to exclude unnecessary files (IDE configs, system files).
+- Maintained organized project structure with folders for:
+  - `/assets`
+  - `/pages`
+  - `/styles`
+  - `/docs` (for resume and legal docs)
+
+---
+
+##  Next Steps (Sprint 2 Ideas)
+
+- Add a **contact form** using a form handling service like Formspree or Netlify Forms.
+- Incorporate **project filtering or interactivity** using JavaScript.
+- Explore deployment pipelines for automated updates via GitHub Actions.
+
+---
+
+Thanks for checking out my project!
+
+
