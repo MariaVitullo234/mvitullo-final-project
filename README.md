@@ -1,4 +1,4 @@
-# 📁 Personal Website – Sprint 1 Backlog
+# 📁 Personal Website 
 
 Welcome to the README for my **personal website project**. This README.md focuses on planning, setup, and preparing the infrastructure and initial codebase for my site. This site will showcase who I am, my experience, and my professional goals, as well as link my Linked in and GIthub
 
@@ -20,7 +20,7 @@ This project was designed as a **static website** that reflects both technical a
 ##  Key Accomplishments
 
 ### 🔹 Template Customization
-- Selected a free **Bootstrap 5** template from Start Bootstrap ([link](https://startbootstrap.github.io/startbootstrap-personal/index.html)) as a foundation.
+- Selected a free **Bootstrap 5** template from Start Bootstrap as a foundation.
 - Modified HTML structure and content to reflect my own:
   - Added **About Me**, **Resume**, **Projects**, and **Contact** sections.
   - Removed irrelevant scripts and unused content for cleaner performance.
