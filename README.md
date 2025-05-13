@@ -10,7 +10,7 @@ Welcome to the README for my **personal website project**. This README.md focuse
 
 ---
 
-## 🔨 Project Plan & Decisions
+##  Project Plan & Decisions
 
 ### [PBI] Decide the Site Type and Infrastructure
 
